@@ -1,4 +1,4 @@
 module.exports = {
-    uri: process.env.MONGO_URI,
+    uri: process.env.MONGO_URL,
   };
   
